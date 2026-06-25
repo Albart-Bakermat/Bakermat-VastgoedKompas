@@ -1,2 +1,0 @@
-# Bakermat-VastgoedKompas
-Bakermat Vastgoedmanagement VastgoedKompas
